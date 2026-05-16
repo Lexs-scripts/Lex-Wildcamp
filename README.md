@@ -1,5 +1,4 @@
 # Jay-Wildcamp
-# Jay-Wildcamp
 <div align="center">
 
 # 🏕️ Jay-Wildcamp
