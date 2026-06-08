@@ -137,3 +137,12 @@ Built with scalability and server performance in mind, the resource supports mul
 ```bash
 /createcamp   # Create a new camp
 /camps        # Admin camp management panel
+
+> [!IMPORTANT]
+> This repository does **not** contain the full resource files.
+>
+> The project is showcased here for preview and informational purposes only.
+>
+> To obtain the complete version of the resource, please contact the developer directly through Discord or the official support channels.
+
+---
